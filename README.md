@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitha-vangari&label=Profile%20views&color=0e75b6&style=flat" alt="akshitha-vangari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitha-vangari" alt="akshitha-vangari" /></a> </p>
-
 - 🔭 I’m currently working on **Django Projects**
 
 - 🌱 I’m currently learning **Django**
@@ -29,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitha-vangari&show_icons=true&locale=en" alt="akshitha-vangari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitha-vangari&" alt="akshitha-vangari" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitha-vangari" alt="akshitha-vangari" /></a> </p>
+
